@@ -1,0 +1,286 @@
+{
+  "type": "MantaPacificTokenList",
+  "tokenListId": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/json/manta-pacific-mainnet-token-list.json",
+  "name": "Manta Pacific Mainnet Token List",
+  "createdAt": "2023-11-27",
+  "updatedAt": "2023-11-27",
+  "versions": [
+    {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  ],
+  "tokens": [
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x1c466b9371f8aBA0D7c458bE10a62192Fcb8Aa71",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x1c466b9371f8aBA0D7c458bE10a62192Fcb8Aa71",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12409.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x6E9655611b42C10b9aF25B6ca08bE349Df45c370",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x6E9655611b42C10b9aF25B6ca08bE349Df45c370",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x80137510979822322193FC997d400D5A6C747bf7",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_stake_stone.svg",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x7122985656e38BDC0302Db86685bb972b145bD3C"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x91647632245caBf3d66121F86C387aE0ad295F9A",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x91647632245caBf3d66121F86C387aE0ad295F9A",
+      "name": "iZUMi Token",
+      "symbol": "iZi",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_izumi.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x9ad37205d608b8b219e6a2573f922094cec5c200"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x078f712f038A95BeEA94F036cADB49188a90604b",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x078f712f038A95BeEA94F036cADB49188a90604b",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_izumi_bond_usd.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a",
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x0917459e8CA2C01E49b1A83Ae8ACC6bd6f627442",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x0917459e8CA2C01E49b1A83Ae8ACC6bd6f627442",
+      "name": "Wrapped Mountain Protocol USD",
+      "symbol": "wUSDM",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_wrapped_mountain_protocol_usd.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+      "name": "QuickSwap",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
+      "name": "Liquid Staking Matic",
+      "symbol": "MaticX",
+      "decimals": 18,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_liquid_staking_matic.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xf03A7Eb46d01d9EcAA104558C732Cf82f6B6B645"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "decimals": 6,
+      "createdAt": "2023-11-27",
+      "updatedAt": "2023-11-27",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "manta-pacific-token-list",
+  "version": "1.0.0",
+  "repository": "git@github.com:Manta-Network/manta-pacific-token-list.git",
+  "author": "Manta",
+  "license": "MIT",
+  "homepage": "https://github.com/Manta-Network/manta-pacific-token-list",
+  "scripts": {
+    "prettify": "prettier --config .prettierrc --write 'json/manta-pacific-mainnet-token-list.json'",
+    "precommit": "npm run prettify",
+    "husky-run": "node husky.js",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "5.6.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/node": "^20.9.0",
+    "husky": "^8.0.0",
+    "prettier": "^3.1.0",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.2.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run precommit"
+    }
+  }
+}
