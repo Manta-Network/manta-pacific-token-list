@@ -1,0 +1,58 @@
+{
+  "type": "MantaPacificNonCanonicalBridgeTokenList",
+  "tokenListId": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/json/manta-pacific-mainnet-non-canonical-bridge-token-list.json",
+  "name": "Manta Pacific Mainnet Non Canonical Bridge Token List",
+  "createdAt": "2023-12-15",
+  "updatedAt": "2023-12-15",
+  "versions": [
+    {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  ],
+  "tokens": [
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x6Fae4D9935E2fcb11fC79a64e917fb2BF14DaFaa",
+      "address": "0x6Fae4D9935E2fcb11fC79a64e917fb2BF14DaFaa",
+      "name": "Celestia",
+      "symbol": "TIA",
+      "decimals": 6,
+      "createdAt": "2023-12-15",
+      "updatedAt": "2023-12-15",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png",
+      "coingeckoId": "celestia",
+      "tokenCategory": "EBV",
+      "formula": "totalSupply",
+      "bridgedUsing": {
+        "bridge": "Hyperlane Nexus"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+      "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "createdAt": "2023-12-15",
+      "updatedAt": "2023-12-15",
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/large/200_200.png?1702602672",
+      "coingeckoId": "stakestone-ether",
+      "tokenCategory": "EBV",
+      "formula": "totalSupply",
+      "bridgedUsing": {
+        "bridge": "Layer Zero",
+        "slug": "omnichain"
+      },
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x7122985656e38BDC0302Db86685bb972b145bD3C"
+      }
+    }
+  ]
+}
