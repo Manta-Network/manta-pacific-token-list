@@ -263,6 +263,78 @@
         "rootChainURI": "https://etherscan.io/block/0",
         "rootAddress": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3"
       }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xB385E52903C802B3bDca7C4D0C78460A8988E1ce",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xB385E52903C802B3bDca7C4D0C78460A8988E1ce",
+      "name": "Bella",
+      "symbol": "BEL",
+      "decimals": 18,
+      "createdAt": "2024-01-24",
+      "updatedAt": "2024-01-24",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x9758962A46ffbE3Ae02Dc5a850b0e5A3A985EAdD",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x9758962A46ffbE3Ae02Dc5a850b0e5A3A985EAdD",
+      "name": "rsETH",
+      "symbol": "rsETH",
+      "decimals": 18,
+      "createdAt": "2024-01-24",
+      "updatedAt": "2024-01-24",
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/large/Icon___Dark.png?1702991855",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xBAb1c57ec0bB0aE81d948503E51d90166459D154",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xBAb1c57ec0bB0aE81d948503E51d90166459D154",
+      "name": "Ispolink Token",
+      "symbol": "ISP",
+      "decimals": 18,
+      "createdAt": "2024-01-24",
+      "updatedAt": "2024-01-24",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9865.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xC8807f0f5BA3fa45FfBdc66928d71c5289249014"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xd212377f71F15A1b962c9265Dc44FBcEAf0Bc46D",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xd212377f71F15A1b962c9265Dc44FBcEAf0Bc46D",
+      "name": "Deri",
+      "symbol": "DERI",
+      "decimals": 18,
+      "createdAt": "2024-01-24",
+      "updatedAt": "2024-01-24",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8424.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9"
+      }
     }
   ]
 }
