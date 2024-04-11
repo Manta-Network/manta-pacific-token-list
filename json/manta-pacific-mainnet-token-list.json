@@ -3,11 +3,11 @@
   "tokenListId": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/json/manta-pacific-mainnet-token-list.json",
   "name": "Manta Pacific Mainnet Token List",
   "createdAt": "2023-11-27",
-  "updatedAt": "2023-11-27",
+  "updatedAt": "2024-04-11",
   "versions": [
     {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   ],
@@ -334,6 +334,60 @@
         "rootChainId": 1,
         "rootChainURI": "https://etherscan.io/block/0",
         "rootAddress": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x77b6F99970f488cFA8bd41892900b6Ce881C2300",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x77b6F99970f488cFA8bd41892900b6Ce881C2300",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "createdAt": "2024-04-11",
+      "updatedAt": "2024-04-11",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28695.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0xA53E005Cecd3D7C89A4AE814617cC14828b6527E",
+      "tokenType": ["canonical-bridge"],
+      "address": "0xA53E005Cecd3D7C89A4AE814617cC14828b6527E",
+      "name": "pufETH",
+      "symbol": "pufETH",
+      "decimals": 18,
+      "createdAt": "2024-04-11",
+      "updatedAt": "2024-04-11",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29325.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xD9A442856C234a39a81a089C06451EBAa4306a72"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x34c7Ad65E4163306f8745996688b476914201cE0",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x34c7Ad65E4163306f8745996688b476914201cE0",
+      "name": "Universal ETH",
+      "symbol": "uniETH",
+      "decimals": 18,
+      "createdAt": "2024-04-11",
+      "updatedAt": "2024-04-11",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23773.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4"
       }
     }
   ]
