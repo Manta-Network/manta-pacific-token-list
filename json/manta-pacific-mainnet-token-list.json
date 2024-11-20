@@ -3,11 +3,11 @@
   "tokenListId": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/json/manta-pacific-mainnet-token-list.json",
   "name": "Manta Pacific Mainnet Token List",
   "createdAt": "2023-11-27",
-  "updatedAt": "2024-05-16",
+  "updatedAt": "2024-11-20",
   "versions": [
     {
       "major": 1,
-      "minor": 1,
+      "minor": 2,
       "patch": 1
     }
   ],
@@ -244,6 +244,24 @@
         "rootChainId": 1,
         "rootChainURI": "https://etherscan.io/block/0",
         "rootAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7"
+      }
+    },
+    {
+      "chainId": 169,
+      "chainURI": "https://pacific-explorer.manta.network/block/0",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x207D76b287a566aBa975700f103017FD568a2181",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x207D76b287a566aBa975700f103017FD568a2181",
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "createdAt": "2024-11-20",
+      "updatedAt": "2024-11-20",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33312.png",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x7A56E1C57C7475CCf742a1832B028F0456652F97"
       }
     },
     {
